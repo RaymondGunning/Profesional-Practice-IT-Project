@@ -1,7 +1,7 @@
 Readme
 ============================================
 After cloning or downloding you may have to run npm install in the folder of the project. To compile the app run npm start
-Server folder has server.js which is to be ran in terminal "node server.js" on port 4000 in seperate terminal 
+and open a terminal in folder "Server" it has server.js the command "node server.js" runs the backend on port 4000 for stripe transactions
 along with npm start for react
 ==============================================
 

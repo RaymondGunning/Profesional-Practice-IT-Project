@@ -1,6 +1,9 @@
 Readme
-================
-After cloning or downloding you may have to run npm init in the folder of the project.
+============================================
+After cloning or downloding you may have to run npm install in the folder of the project. to compile or be able to run npm start
+Server folder has server.js which is to be ran in terminal "node server.js" on port 4000 in seperate terminal 
+along with npm start for react
+==============================================
 
 Website is a basic shoe shop using firebase for login/signup authentication and stripe for transactions.
 Both enteries of data are saved to their own database

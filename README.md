@@ -1,6 +1,6 @@
 Readme
 ============================================
-After cloning or downloding you may have to run npm install in the folder of the project. to compile or be able to run npm start
+After cloning or downloding you may have to run npm install in the folder of the project. To compile the app run npm start
 Server folder has server.js which is to be ran in terminal "node server.js" on port 4000 in seperate terminal 
 along with npm start for react
 ==============================================
